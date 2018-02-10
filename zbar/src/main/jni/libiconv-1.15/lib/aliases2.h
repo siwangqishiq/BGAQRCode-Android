@@ -21,7 +21,7 @@
 # if defined _AIX
 #  include "aliases_aix_sysaix.h"
 # else
-#  include "aliases_aix.h"
+#  include "aliases_aix.h"为
 # endif
 #endif
 #ifdef USE_OSF1
